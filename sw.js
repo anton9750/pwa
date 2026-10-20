@@ -6,7 +6,7 @@ const FILES = [
   "./",
   "./index.html",
   "./main.js",
-  "./main.css",
+  "./main.csse",
   "./assets/img/dog.png",
   "./manifest.json",
 ];
