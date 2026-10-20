@@ -6,9 +6,10 @@ const FILES = [
   "./",
   "./index.html",
   "./main.js",
-  "./main.csse",
+  "./main.css",
   "./assets/img/dog.png",
   "./manifest.json",
+  "./assets/js/app.js"
 ];
 
 // 1. INSTALL: gem filerne i cache
