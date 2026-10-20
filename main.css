@@ -1,0 +1,26 @@
+.titel-container {
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.titel{
+    background-color: white;
+    text-align: center;
+}
+
+.billede-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    height: 250px;          
+    background-color: black;
+}
+
+.styled-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;           
+    padding: 10px 20px;            
+    background-color: blue;
+}
